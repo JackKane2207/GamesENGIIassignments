@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gameuser\\Desktop\\New folder (2)\\GamesENGIIassignments\\C00300324\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28264554-B6D8-46CE-AB5C-67BA12F91C26}|Lab01\\Lab01.vcxproj|C:\\Users\\gameuser\\Desktop\\New folder (2)\\GamesENGIIassignments\\C00300324\\Lab01\\Lab01\\lab01_debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28264554-B6D8-46CE-AB5C-67BA12F91C26}|Lab01\\Lab01.vcxproj|solutionrelative:Lab01\\lab01_debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab01_debug.cpp",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\New folder (2)\\GamesENGIIassignments\\C00300324\\Lab01\\Lab01\\lab01_debug.cpp",
+              "RelativeDocumentMoniker": "Lab01\\lab01_debug.cpp",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\New folder (2)\\GamesENGIIassignments\\C00300324\\Lab01\\Lab01\\lab01_debug.cpp",
+              "RelativeToolTip": "Lab01\\lab01_debug.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T13:18:57.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
