@@ -17,7 +17,7 @@ using namespace std;
 class Arithmetic1 {
 public:
     int add(int a, int b) {
-        return a - b;   //<BUG_1>
+        return a + b;   //<BUG_1> Changed - to +
     }
 
     int subtract(int a, int b) {
