@@ -31,8 +31,8 @@ public:
         return a * b;   //<BUG_3> Changed / to *
     }
 
-    double divide(int a, int b) {
-        return a / b;   //<BUG_4>
+    double divide(double a, double b) {
+        return a / b;   //<BUG_4> Changed int to double
     }
 };
 
