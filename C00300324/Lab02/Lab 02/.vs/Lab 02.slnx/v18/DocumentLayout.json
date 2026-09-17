@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gameuser\\Desktop\\New folder (8)\\GamesENGIIassignments\\C00300324\\Lab02\\Lab 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7365A5F3-F7B6-452F-826E-31C5402267FE}|Lab 02\\Lab 02.vcxproj|C:\\Users\\gameuser\\Desktop\\New folder (8)\\GamesENGIIassignments\\C00300324\\Lab02\\Lab 02\\Lab 02\\Lab 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7365A5F3-F7B6-452F-826E-31C5402267FE}|Lab 02\\Lab 02.vcxproj|solutionrelative:Lab 02\\Lab 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab 02.cpp",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\New folder (8)\\GamesENGIIassignments\\C00300324\\Lab02\\Lab 02\\Lab 02\\Lab 02.cpp",
+              "RelativeDocumentMoniker": "Lab 02\\Lab 02.cpp",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\New folder (8)\\GamesENGIIassignments\\C00300324\\Lab02\\Lab 02\\Lab 02\\Lab 02.cpp",
+              "RelativeToolTip": "Lab 02\\Lab 02.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-17T12:30:56.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
